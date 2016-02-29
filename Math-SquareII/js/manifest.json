@@ -1,0 +1,15 @@
+{
+  "short_name": "Math-Square",
+  "name": "Andres Lopez",
+  "icons":
+  [
+      {
+      "src": "img/juego.png",
+      "sizes": "96x96",
+      "type": "image/png"
+      }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
